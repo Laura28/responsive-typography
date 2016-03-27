@@ -62,3 +62,13 @@ blockquote {
 .quote {
   color: #999;
 }
+
+article ol {
+  padding: 15px;
+  margin: 0;
+}
+
+article p {
+  margin: auto;
+  padding-bottom: 1.3em;
+}
